@@ -1,0 +1,2 @@
+video folder is img
+img folder is video 
